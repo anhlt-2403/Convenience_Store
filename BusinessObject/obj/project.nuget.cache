@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PcT0DUjN2PToKlRXzdN/pSCaUcNxzo/XjtpMCM7l8Yuer1SiM0JDrcpWbuxqzHVqNj+uWlTBmpvrBtszu3xU9A==",
+  "dgSpecHash": "VN+awTs7qy4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tuan Anh\\Documents\\Subject\\PRN211\\Group_Project\\PRN211_CONVENIENCE_STORE-master\\BusinessObject\\BusinessObject.csproj",
+  "projectFilePath": "C:\\Users\\Tuan Anh\\Documents\\Subject\\PRN211\\1\\Group_Project\\Convenience_Store\\BusinessObject\\BusinessObject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tuan Anh\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Tuan Anh\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

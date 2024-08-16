@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WzrL94IGEH6gAjxLOtq2fhdwV/Njk0VkO2N44LTyvNCHad5TsR7lvsnf1RYlCnfhH96phLLx8tgfgt+If1LM+A==",
+  "dgSpecHash": "+Xe7xME0joE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tuan Anh\\Documents\\Subject\\PRN211\\Group_Project\\PRN211_CONVENIENCE_STORE-master\\ConvenienceStoreApp\\ConvenienceStoreApp.csproj",
+  "projectFilePath": "C:\\Users\\Tuan Anh\\Documents\\Subject\\PRN211\\1\\Group_Project\\Convenience_Store\\ConvenienceStoreApp\\ConvenienceStoreApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tuan Anh\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Tuan Anh\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

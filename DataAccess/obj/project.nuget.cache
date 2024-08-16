@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/QcB+21fmRBeuNUNaBDF7rEhnFQxSuoT2PU2EFDITnldVSePZ3fgHqTtGQH4d4eHYxi2ZFdhJEWi5VvmcVU5zQ==",
+  "dgSpecHash": "ZuCmTCJaCGs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tuan Anh\\Documents\\Subject\\PRN211\\Group_Project\\PRN211_CONVENIENCE_STORE-master\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Tuan Anh\\Documents\\Subject\\PRN211\\1\\Group_Project\\Convenience_Store\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tuan Anh\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Tuan Anh\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
